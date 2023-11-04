@@ -1,7 +1,7 @@
-### Hi there 👋
 
-#My GIF
-![](https://github.com/dereknguyenm/dereknguyenm/blob/main/Derek.gif)
+<img src="https://github.com/dereknguyenm/dereknguyenm/blob/main/Derek.gif" width="400" height="790">
+
+worked, Thanks!
 
 <!--
 **dereknguyenm/dereknguyenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
