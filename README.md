@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dereknguyenm/dereknguyenm/blob/main/Derek.gif" width="400" height="790">
+<img src="https://github.com/dereknguyenm/dereknguyenm/blob/main/Derek.gif" width="800" height="500">
 
 worked, Thanks!
 
