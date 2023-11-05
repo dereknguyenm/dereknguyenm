@@ -1,4 +1,4 @@
-<img src="https://github.com/dereknguyenm/dereknguyenm/blob/main/Derek.gif" width="750" height="500">
+<img src="https://github.com/dereknguyenm/dereknguyenm/blob/main/Derek.gif" width="750" height="510">
 
 <!--
 **dereknguyenm/dereknguyenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
